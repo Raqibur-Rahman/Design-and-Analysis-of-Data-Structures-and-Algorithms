@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Test {
+public class InsertionSortAD {
     static void insertionSortA(int arr[], int lengthOfArray)
     {
         for(int j=1 ; j<lengthOfArray; j++){
