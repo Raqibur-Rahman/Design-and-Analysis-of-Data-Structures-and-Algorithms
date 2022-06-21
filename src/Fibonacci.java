@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fibonnacci {
+public class Fibonacci {
     static int Fibonacci(int input){
         if(input==0)
             return 0;
